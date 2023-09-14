@@ -22,6 +22,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Sequelize](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=Mysql)
+
   
 
 
